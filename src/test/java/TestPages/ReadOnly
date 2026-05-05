@@ -1,0 +1,169 @@
+
+
+***Requirement for Automation Testing
+1)Logins -RP,WareHouse for Physical ,Assayer,WareHaouse Confirmation
+2)DashBord- All Function
+  1)RP-Deposite Request
+    a)Maker
+     1)Login
+     2)Transaction
+     3)logout
+    b)Checker
+     1)Login
+     2)Transaction
+     3)logout
+  2)WSP-Physical Deposite Request
+    a)Maker
+     1)Login
+     2)Transaction
+     3)logout
+    b)Checker
+     1)Login
+     2)Transaction
+     3)logout
+  3)Assayer- Deposite Assayer
+    a)Maker
+     1)Login
+     2)Transaction
+     3)logout
+    b)Checker
+     1)Login
+     2)Transaction
+     3)logout
+  4)WSP-WareHouse Confirmation Request
+    a)Maker
+     1)Login
+     2)Transaction
+     3)logout
+    b)Checker
+     1)Login
+     2)Transaction
+     3)logout
+     
+     
+   Working Issues:
+   
+Issue List:
+1)In Physical Deposit Checker when we adding multiple bags then quantity is get null
+ or not equal  in few cases which results in POP as 
+  "quantity is not match" 
+2)In Physical Deposit Checker when we adding multiple bags then 
+quantity is get null or not equal in few cases which results
+ in POP as   "quantity is not match" for Exchange 
+3)Exchange Non-Agri Is underDevelopment
+4)In pledgeCreation page when we try to Authorized in  checker login  
+then  getting "An internal error occurred during your request" pop up
+
+
+     
+     Basic Editing
+
+Ctrl + Space → Content Assist (auto code completion)
+
+Ctrl + / → Toggle comment/uncomment for a single line
+
+Ctrl + Shift + / → Add block comment
+
+Ctrl + Shift + \ → Remove block comment
+
+Ctrl + D → Delete the current line
+
+Ctrl + Shift + F → Format code
+
+Ctrl + Alt + ↓ / ↑ → Duplicate line
+
+Alt + ↑ / ↓ → Move line
+
+🔹 Navigation & Search
+
+Ctrl + Shift + R → Open Resource (search any file in workspace)
+
+Ctrl + Shift + T → Open Type (search any class/interface)
+
+Ctrl + Shift + G → Find references in workspace
+
+Ctrl + O → Show Outline (methods/fields of class)
+
+Ctrl + E → Switch between open editors
+
+F3 → Open declaration (go to definition of class/method/variable)
+
+Alt + ← / → → Go backward/forward in navigation history
+
+🔹 Code Generation & Refactoring
+
+Alt + Shift + R → Rename variable/method/class
+
+Alt + Shift + M → Extract method
+
+Alt + Shift + L → Extract local variable
+
+Alt + Shift + I → Inline variable/method
+
+Alt + Shift + Z → Surround with try/catch or other templates
+
+Alt + Shift + T → Refactor menu (quick access to all refactorings)
+
+Ctrl + Shift + O → Organize imports
+
+Alt + Shift + S → Generate code (getters/setters/constructors/toString)
+
+🔹 Running & Debugging
+
+Ctrl + F11 → Run last launched
+
+F11 → Debug last launched
+
+F5 → Step into
+
+F6 → Step over
+
+F7 → Step return
+
+Ctrl + Shift + B → Toggle breakpoint
+
+Ctrl + Shift + F11 → Run selected test case with JUnit/TestNG
+
+🔹 Editing & Productivity
+
+Ctrl + Shift + L → Show all shortcut keys
+
+Ctrl + Shift + P → Jump to matching bracket
+
+Ctrl + 1 → Quick fix (auto-suggest fixes, imports, corrections)
+
+Ctrl + Shift + C → Comment/uncomment block
+
+Ctrl + Alt + H → Open call hierarchy (who is calling this method)
+
+Ctrl + Shift + M → Add missing import for selected class
+
+🔹 Views & Workspace
+
+Alt + Shift + Q, C → Open Console view
+
+Alt + Shift + Q, P → Open Package Explorer
+
+Alt + Shift + Q, H → Open Hierarchy view
+
+Ctrl + Shift + F4 → Close all open editors
+
+Ctrl + M → Maximize/minimize editor
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
